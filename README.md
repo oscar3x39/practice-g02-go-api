@@ -1,4 +1,5 @@
-# practice-g02-go-api
+# 練習課程 《G02 Go API 实战》
+`https://learnku.com/courses/go-api/1.17`
 
 # GO升級到1.18錯誤解決方式
 → go run main.go 
